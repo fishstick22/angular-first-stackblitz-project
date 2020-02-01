@@ -1,13 +1,27 @@
-# angular-first-stackblitz-project
+# Angular8StackblitzStarter
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-first-stackblitz-project)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
-# lots of stackoverflow searches to get this working locally
+## Development server
 
-[npm - “Can't find Python executable ”python“, you can set the PYTHON env variable.”](https://stackoverflow.com/questions/34372618/npm-cant-find-python-executable-python-you-can-set-the-python-env-variabl)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-[ENOENT: no such file or directory in tsconfig.app.json using angular 4?](https://stackoverflow.com/questions/47938391/enoent-no-such-file-or-directory-in-tsconfig-app-json-using-angular-4)
+## Code scaffolding
 
-[Export Angular project from StackBlitz to local](https://stackoverflow.com/questions/52560532/export-angular-project-from-stackblitz-to-local)
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-[Angular 6 App stuck on loading on localhost](https://stackoverflow.com/questions/52851620/angular-6-app-stuck-on-loading-on-localhost)
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
